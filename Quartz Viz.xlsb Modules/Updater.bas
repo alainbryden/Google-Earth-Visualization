@@ -1,9 +1,9 @@
 Attribute VB_Name = "Updater"
 Option Explicit
 
-Const VersionURL = "http://trac/trac/quartz-tools/browser/Google Earth Visualization/trunk/CurrentVersion.txt?format=txt"
-Const ChangesURL = "http://trac/trac/quartz-tools/browser/Google Earth Visualization/trunk/VersionChange.txt?format=txt"
-Const LatestVersionURL = "http://trac/trac/quartz-tools/browser/Google Earth Visualization/trunk/Quartz Viz.xlsb"
+Const VersionURL = "https://raw.github.com/alainbryden/Google-Earth-Visualization/master/Version.txt"
+Const ChangesURL = "https://raw.github.com/alainbryden/Google-Earth-Visualization/master/VersionChange.txt"
+Const LatestVersionURL = "https://github.com/alainbryden/Google-Earth-Visualization"
 
 #If VBA7 Then
     Private Declare PtrSafe Function ShellExecute Lib "shell32.dll" Alias "ShellExecuteA" _

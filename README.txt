@@ -1,0 +1,1 @@
+This workbook uses a reference to the Earth 1.0 COM library. Google discontinued this API after version 5.2. Thus, you must have Google Earth 5.2 or older installed to use this tool.
