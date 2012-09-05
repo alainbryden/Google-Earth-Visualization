@@ -1,0 +1,22 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 34F0-5CEF
+
+ Directory of C:\Documents and Settings\abryden\My Documents\Work Documents\Google Earth Visualization\Screen Shots
+
+[.]
+[..]
+1 - Paste exposure information into the tool in any format.PNG
+2 - Configure the tool to identify key columns from the exposures sheet.PNG
+3 - Tools allow you to geocode, locate, and visualize multiple exposures using google earth.PNG
+4 - Visualizations in google earth can show concentrations in exposures and detailed information about area contents.PNG
+5 - Different visualizations can be overlayed, detailed information can be displayed for individual locations or aggregated regions.PNG
+6 - Take advantage of the refined quality and power of google earth to create aesthetic visualizations of data of any size.PNG
+7 - Familiarize yourself with property locations using areal photography of your location regions.PNG
+Historical Japan Crustal Earthquake.PNG
+Historical Japan Subduction Earthquake.PNG
+Japan Earthquake Land Damage from Epicenter.PNG
+out.txt
+Soil mobility in Japan.PNG
+Swiss 3D Map of Ground Motion Susceptibility.PNG
+              13 File(s)     11,365,527 bytes
+               2 Dir(s)  26,440,073,216 bytes free

@@ -1,0 +1,1 @@
+Revised generation algorithm and Map3D data structure to use dictionaries instead of collections, resulting in a slight speed improvement and a potential for greater improvement upon revision. Also now sorts elements in the collection by lat/long index so that they can be rendered in an order that benefits from transparency effects.
